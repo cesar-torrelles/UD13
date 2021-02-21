@@ -18,7 +18,7 @@ CC21_REUS_JavaAngular_2
 
 Repositorio de los ejercicios:
 ```
-Abrir archivo "Ejercicios UD12.pdf"  https://github.com/cesar-torrelles/UD12
+Abrir archivo "Ejercicios UD13.pdf"  https://github.com/cesar-torrelles/UD12
 ```
 ###   3. Lista de herramientas para poder ejecutarlo:
 ```
