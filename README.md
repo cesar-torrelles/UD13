@@ -1,4 +1,4 @@
-# Unidad 13 -  Modelo Modelo Relacional - BBSS
+# Unidad 13 -  Modelo Relacional - BBSS
 
 ### Equipo de desarrollo:
 
